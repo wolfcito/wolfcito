@@ -2,10 +2,10 @@
 
 # Hello, I'm Luis Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/guffenix">
+<a href="https://twitter.com/AKAwolfcito">
   <img alt="Luis Fernando | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/guffenix">
+<a href="https://www.linkedin.com/in/wolfcito">
   <img alt="Luis Fernando's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
