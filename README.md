@@ -37,6 +37,8 @@ My main focus is web programming; I have also been interested in mobile app deve
 
 ## Favorite technologies
 
+<code>Ethereum</code>
+<code>Blockchain</code>
 <code>Java</code>
 <code>Javascript</code>
 <code>React</code>
