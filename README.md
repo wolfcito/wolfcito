@@ -35,16 +35,16 @@ My main focus is web programming; I have also been interested in mobile app deve
 <img src="https://raw.githubusercontent.com/guffenix/guffenix/master/services.png" alt="Services" >
 
 ## Favorite technologies
-    
-<code>Ethereum</code>
-<code>Blockchain</code>
-<code>Java</code>
-<code>Javascript</code>
-<code>React</code>
-<code>Sql</code>
-<code>Git</code>
-<code>Firebase</code>
-<code>Angular</code>
+
+![](https://img.shields.io/badge/-Ethereum-success)
+![](https://img.shields.io/badge/-Blockchain-informational)
+![](https://img.shields.io/badge/-Nextjs-important)
+![](https://img.shields.io/badge/-Java-green)
+![](https://img.shields.io/badge/-Sql-informational)
+![](https://img.shields.io/badge/-Angular-red)
+![](https://img.shields.io/badge/-Javascript-green)
+![](https://img.shields.io/badge/-Firebase-yellow)
+![](https://img.shields.io/badge/-Git-green)
 
 I like to keep myself updated and expand my knowledge every day. If you like any of my projects, or if you want to support my work, consider inviting me for a coffee.
 <br />
