@@ -4,10 +4,7 @@
 
 <a href="https://twitter.com/AKAwolfcito" ><img src="https://img.shields.io/twitter/follow/AKAwolfcito.svg?style=social" /> </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=guffenix.guffenix)
-<a href="https://www.linkedin.com/in/wolfcito">
-  <img alt="Luis Fernando's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+[![Linkedin: wolfcito](https://img.shields.io/badge/-wolfcito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolfcito/)](https://www.linkedin.com/in/wolfcito/)
 
 
 <br />
