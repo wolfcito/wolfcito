@@ -20,11 +20,11 @@ MundoVirtual: <a href="https://wolfcito.mundovirtual.solutions" target="_blank">
 
 ## About
 
-Hello I am Luis Fernando from Ecuador, currently I am a Software Developer Architect 🌈 I'm Web3, Blockchain, Ethereum Fullstack Developer. I like challenges, learning, traveling, eating and getting to know new cultures !
+Hello! I'm Luis Fernando from Ecuador. Currently, I work as a Software Developer Architect. I'm passionate about the Web3 world, Blockchain, and Fullstack Development on Ethereum. I love taking on challenges, constantly learning, traveling, indulging in culinary delights, and immersing myself in new cultures.
 \
-The phrase that represents me at this stage of my life is "Senri no michi mo, ippou kara" i.e. "A road of a thousand miles, starts with a first step" 🐺
+The phrase that reflects my focus in this stage of my life is "Senri no michi mo, ippou kara," which means "A journey of a thousand miles begins with the first step" 🐺.
 \
-I focused in web programming, improve UI/UX, and also been interested in mobile app development. Always trying to build a new best world.
+I have specialized in web programming, aiming to enhance user experience, and I also have a keen interest in mobile app development. I am always committed to building a new and better world.
 
 - 💼 Any freelance work? Do reach, [email](mailto:guffenix@gmail.com) :D
 - 💬 Do you want to help about anything, I will be happy to help you!
