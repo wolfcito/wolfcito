@@ -37,6 +37,7 @@ I have specialized in web programming, aiming to enhance user experience, and I 
 
 ![](https://img.shields.io/badge/-Ethereum-success)
 ![](https://img.shields.io/badge/-Blockchain-informational)
+![](https://img.shields.io/badge/-Solidity-informational)
 ![](https://img.shields.io/badge/-Nextjs-important)
 ![](https://img.shields.io/badge/-Java-green)
 ![](https://img.shields.io/badge/-Sql-informational)
