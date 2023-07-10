@@ -26,8 +26,9 @@ The phrase that reflects my focus in this stage of my life is "Senri no michi mo
 \
 I have specialized in web programming, aiming to enhance user experience, and I also have a keen interest in mobile app development. I am always committed to building a new and better world.
 
-- 💼 Any freelance work? Do reach, [email](mailto:guffenix@gmail.com) :D
-- 💬 Do you want to help about anything, I will be happy to help you!
+
+- 💼 Need any freelance work? Feel free to reach out to me at [email](mailto:guffenix@gmail.com) :D
+- 💬 If you need help with anything, I'll be more than happy to assist you!
 
 ## Can I help you?
 
