@@ -16,7 +16,7 @@
 ## Website URL - Wolfcito on MundoVirtual Solutions
 
 IPFS: <a href="https://fancy-voice-3770.on.fleek.co" target="_blank">https://fancy-voice-3770.on.fleek.co</a> \
-MundoVirtual: <a href="https://wolfcito.mundovirtual.solutions" target="_blank">https://wolfcito.mundovirtual.solutions</a>
+Personal Blog: <a href="https://wolfcito.mundovirtual.solutions" target="_blank">https://wolfcito.mundovirtual.solutions</a>
 
 ## About
 
