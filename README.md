@@ -50,7 +50,7 @@ You can check some project [HERE!](https://wolfcito.mundovirtual.solutions/proje
 ![](https://img.shields.io/badge/-Firebase-yellow)
 ![](https://img.shields.io/badge/-Git-green)
 
-I like to keep myself updated and expand my knowledge every day. If you like any of my projects, or if you want to support my work, consider inviting me for a coffee.
+I like to keep myself updated and expand my knowledge every day. If you like any of my projects, or if you want to support my work, consider inviting me for a coffee. I really apreciate any contribution to this space 😃
 \
 \
 Thank you very much for your support! 💚
