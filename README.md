@@ -9,7 +9,7 @@
 
 ## 🐺 A.K.A. Wolfcito
 </div>
-<img src="./wolfcito-bg.png" alt="wolfcito background" />
+<img src="https://res.cloudinary.com/guffenix/image/upload/v1720974844/mundovirtual/wolfcito/wolfcito-banner.jpg" alt="wolfcito background" />
 
 ### Mirrors
 #### Centraliced
