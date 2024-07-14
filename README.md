@@ -1,45 +1,49 @@
 <div align="center">
-<img src="./banner_wolfcito.png" alt="wolfcito banner" >
-</br></br>
 
-<a href="https://twitter.com/AKAwolfcito" ><img src="https://img.shields.io/twitter/follow/AKAwolfcito.svg?style=social" /></a>
+<a href="https://twitter.com/AKAwolfcito"><img src="https://img.shields.io/twitter/follow/AKAwolfcito.svg?style=social" alt="Twitter Follow" /></a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=wolfcito.wolfcito-app)
-![](https://img.shields.io/badge/-wolfcito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolfcito)
+<a href="https://www.linkedin.com/in/wolfcito"><img src="https://img.shields.io/badge/-wolfcito-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) 
 
-•
-[About me](#about) •
-[Can I help you?](#how-can-i-help-you) •
-[Favorite Technologies](#favorite-technologies) •
+• [About Me](#my-digital-space) • [Can I Help You?](#how-can-i-help-you) • [Favorite Technologies](#favorite-technologies) •
 
+## 🐺 A.K.A. Wolfcito
 </div>
+<img src="./wolfcito-bg.png" alt="wolfcito background" />
+
+### Mirrors
+#### Centraliced
+- <a href="https://wolfcito.xyz" target="_blank">https://wolfcito.xyz</a>
+#### Decentraliced
+- <a href="https://wolfcito.on-fleek.app" target="_blank">https://wolfcito.on-fleek.app</a>
 
 
-## Wolfcito on MundoVirtual Solutions ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) 
+#### Light readings
+- Hashnode: <a href="https://hashnode.com/@wolfcito" target="_blank">Wolfcito's Hashnode</a>
+- Paragraph: <a href="https://paragraph.xyz/@road-blockchain" target="_blank">Wolfcito's Paragraph</a>
 
+<br/>
 
-Blog: <a href="https://wolfcito.mundovirtual.solutions" target="_blank">https://wolfcito.mundovirtual.solutions</a> \
-IPFS: <a href="https://fancy-voice-3770.on.fleek.co" target="_blank">https://fancy-voice-3770.on.fleek.co</a>
+## My Digital Space
 
-## About
+Hi everyone! 🐺 I'm Luis Fernando, also known as Wolfcito, from the vibrant landscapes of Ecuador. As an experienced Software Development Architect, I specialize in crafting solutions from concept to production. My passions include Web 3.0, Blockchain, and Fullstack development. Currently, I'm exploring Ethereum EVM, Layer 2 solutions like Optimism, and opportunities within the Mode Network. I'm also a Tech-cooperator at 🟡 Mode Network and an 💜 Ambassador for Push Protocol. 🚀
 
-Hello everyone! I'm Luis Fernando from Ecuador. Currently, I work as a Software Developer Architect. I've the oportunity to built solutions from scratch to deploy it in production. I'm passionate about technology usually I work with Java, Sql and right now I am so excited with the Web 3.0 world, Blockchain, and Fullstack development on Ethereum and L2 like Optimism.🚀  I love taking on challenges, constantly learning, traveling, indulging in culinary delights, and immersing myself in new cultures.\
-\
-The phrase that reflects my focus in this stage of my life is "Senri no michi mo, ippou kara" which means "A journey of a thousand miles begins with the first step" 🐺\
-\
-I have specialized in web programming with the aim of enhancing user experience. My commitment starts with myself and extends to the world. I strive to create value in the projects that I participate in, with the ultimate goal of leaving the world a better place than I found it.
+Join me on this blog for an exciting journey through tech challenges, continuous learning, and evolving technology landscapes. Beyond coding, I love traveling, trying diverse cuisines, and experiencing new cultures.
 
-- 💼 Need any freelance work? Feel free to reach out to me at [email](mailto:guffenix+github@gmail.com)
+Let's explore the digital world together, where tech insights, travel tales, and cultural discoveries meet! 🗺️
+
+A guiding phrase for me is "Senri no michi mo, ippou kara," meaning "A journey of a thousand miles begins with the first step."
+
+I focus on web programming to enhance user experiences. My goal is to create value in every project and leave the world better than I found it.
+
+- 💼 Need any freelance work? Feel free to reach out to me via [email](mailto:guffenix+github@gmail.com)
 - 💬 If you need help with anything, I'll be more than happy to assist you!
 
-  
-## How can I help you?
+## How Can I Help You?
 
-<img src="./services.jpg" alt="Services" >
+<img src="./services.jpg" alt="Services" />
 
-## Favorite technologies
-
-You can review more of my personal projects [HERE!](https://wolfcito.mundovirtual.solutions/projects/)
-<br/><br/>
+## Favorite Technologies
 
 ![](https://img.shields.io/badge/-Java-red)
 ![](https://img.shields.io/badge/-Nextjs-white)
@@ -52,17 +56,17 @@ You can review more of my personal projects [HERE!](https://wolfcito.mundovirtua
 ![](https://img.shields.io/badge/-Firebase-yellow)
 ![](https://img.shields.io/badge/-Git-green)
 
-I like to keep myself updated and expand my knowledge every day. If you like any of my projects, or if you want to support my work, consider inviting me for a coffee.
-
-
-Thank you very much for your support! 💚
-</br>
-<div align="center">
-<a href="https://www.buymeacoffee.com/wolfcito" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee ;)" width="150" ></a>
-</div>
-</br>
+<a href="https://wolfcito.xyz/projects" target="_blank">You can review more of My Personal Projects</a>
 <br/>
 
-## Badges
+I enjoy staying informed and broadening my knowledge regularly. If you appreciate any of my projects or wish to support my efforts, feel free to treat me to a coffee.
 
-[![@wolfcito's Holopin board](https://holopin.io/api/user/board?user=wolfcito)](https://holopin.io/@wolfcito)
+Thank you very much for your support! 💚
+<br />
+
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/wolfcito" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee ;)" width="150" /></a>
+</div>
+<br />
+
