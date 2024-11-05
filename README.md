@@ -1,72 +1,82 @@
 <div align="center">
-
-<a href="https://twitter.com/AKAwolfcito"><img src="https://img.shields.io/twitter/follow/AKAwolfcito.svg?style=social" alt="Twitter Follow" /></a>
-![](https://visitor-badge.laobi.icu/badge?page_id=wolfcito.wolfcito-app)
-<a href="https://www.linkedin.com/in/wolfcito"><img src="https://img.shields.io/badge/-wolfcito-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) 
-
-• [About Me](#my-digital-space) • [Can I Help You?](#how-can-i-help-you) • [Favorite Technologies](#favorite-technologies) •
-
-## 🐺 A.K.A. Wolfcito
+  <a href="https://twitter.com/AKAwolfcito" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/AKAwolfcito.svg?style=social" alt="Follow me on Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/wolfcito" target="_blank">
+    <img src="https://img.shields.io/badge/-wolfcito-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wolfcito.wolfcito-app" alt="Visitor Count" />
+  <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website Status" />
 </div>
-<img src="https://res.cloudinary.com/guffenix/image/upload/v1720974844/mundovirtual/wolfcito/wolfcito-banner.jpg" alt="wolfcito background" />
 
-### Mirrors
-#### Centraliced
-- <a href="https://wolfcito.xyz" target="_blank">https://wolfcito.xyz</a>
-#### Decentraliced
-- <a href="https://wolfcito.on-fleek.app" target="_blank">https://wolfcito.on-fleek.app</a>
+<h2 align="center">Wolfcito</h2>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1c7a1b18-8bcc-47ce-bf48-d2056316e233" alt="Wolfcito Banner" />
+</div>
 
 
-#### Light readings
-- Hashnode: <a href="https://hashnode.com/@wolfcito" target="_blank">Wolfcito's Hashnode</a>
-- Paragraph: <a href="https://paragraph.xyz/@road-blockchain" target="_blank">Wolfcito's Paragraph</a>
+ ## Blog & Publications
 
-<br/>
+- [https://wolfcito.xyz](https://wolfcito.xyz) - Personal blog
+- [Wolfcito's Hashnode](https://hashnode.com/@wolfcito)
+- [Wolfcito's Paragraph](https://paragraph.xyz/@road-blockchain)
+- [Wolfcito's Dev.to](https://dev.to/wolfcito)
 
-## My Digital Space
+  
+Hey there! I'm **Luis Fernando**, also known as **Wolfcito** 🐺, hailing from Ecuador 🇪🇨. I’m a **Software Development Architect** with a deep passion for **Web3** and **Blockchain** technologies. With years of experience across full-stack development, I focus on building scalable solutions and exploring decentralized systems like **Ethereum EVM** and **Layer 2 protocols** (e.g., **Optimism, Mode Network**).
 
-Hi everyone! 🐺 I'm Luis Fernando, also known as Wolfcito, from the vibrant landscapes of Ecuador. As an experienced Software Development Architect, I specialize in crafting solutions from concept to production. My passions include Web 3.0, Blockchain, and Fullstack development. Currently, I'm exploring Ethereum EVM, Layer 2 solutions like Optimism, and opportunities within the Mode Network. I'm also a Tech-cooperator at 🟡 Mode Network and an 💜 Ambassador for Push Protocol. 🚀
+Currently, I’m a **Tech-Cooperator** at **Mode Network**, contributing to innovative blockchain solutions, and also an **Ambassador for Push Protocol**, engaging with the vibrant **Web3** community.
 
-Join me on this blog for an exciting journey through tech challenges, continuous learning, and evolving technology landscapes. Beyond coding, I love traveling, trying diverse cuisines, and experiencing new cultures.
+When I’m not deep in code, you can find me exploring new cultures, traveling, and indulging in diverse cuisines. My personal motto is inspired by the Japanese proverb: *"Senri no michi mo, ippou kara"* — *"A journey of a thousand miles begins with a single step."*
 
-Let's explore the digital world together, where tech insights, travel tales, and cultural discoveries meet! 🗺️
+I believe in leaving the world better through tech by creating meaningful, user-centered experiences. Let’s connect, collaborate, and build the future together!
 
-A guiding phrase for me is "Senri no michi mo, ippou kara," meaning "A journey of a thousand miles begins with the first step."
 
-I focus on web programming to enhance user experiences. My goal is to create value in every project and leave the world better than I found it.
+## About Me
 
-- 💼 Need any freelance work? Feel free to reach out to me via [email](mailto:guffenix+github@gmail.com)
-- 💬 If you need help with anything, I'll be more than happy to assist you!
+
+
+### Freelance Work
+
+Need help with your next project or idea? I offer collaboration on everything from Web Development to Blockchain Integration. Feel free to reach out via [email](mailto:guffenix+github@gmail.com).
 
 ## How Can I Help You?
 
-<img src="./services.jpg" alt="Services" />
+<div align="center">
+  <img src="./services.jpg" alt="My Services" />
+</div>
+
+Explore how I can assist you with your next project, whether it’s building smart contracts, full-stack applications, or guiding your team through the **Web3** ideas.
 
 ## Favorite Technologies
 
-![](https://img.shields.io/badge/-Java-red)
-![](https://img.shields.io/badge/-Nextjs-white)
-![](https://img.shields.io/badge/-PL/SQL-red)
-![](https://img.shields.io/badge/-Ethereum-success)
-![](https://img.shields.io/badge/-Blockchain-informational)
-![](https://img.shields.io/badge/-Solidity-yellow)
-![](https://img.shields.io/badge/-Angular-red)
-![](https://img.shields.io/badge/-Javascript-green)
-![](https://img.shields.io/badge/-Firebase-yellow)
-![](https://img.shields.io/badge/-Git-green)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Optimism-red" alt="Optimism" />
+  <img src="https://img.shields.io/badge/-Mode-green" alt="Mode Network" />
+  <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
+  <img src="https://img.shields.io/badge/-Next.js-white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-PL/SQL-red" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/-Ethereum-success" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/-Solidity-yellow" alt="Solidity" />
+  <img src="https://img.shields.io/badge/-Angular-red" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Javascript-green" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Git-green" alt="Git" />
+</div>
 
-<a href="https://wolfcito.xyz/projects" target="_blank">You can review more of My Personal Projects</a>
-<br/>
+## Projects & Portfolio
 
-I enjoy staying informed and broadening my knowledge regularly. If you appreciate any of my projects or wish to support my efforts, feel free to treat me to a coffee.
+Check out more of my projects and personal endeavors at [wolfcito.xyz/projects](https://wolfcito.xyz/projects). From blockchain applications to fullstack development, my projects showcase my dedication to innovation and solving complex problems.
 
-Thank you very much for your support! 💚
-<br />
+## Support My Work
 
+If you enjoy my projects or would like to support my efforts, feel free to [buy me a coffee](https://www.buymeacoffee.com/wolfcito).
+💚 Your support means a lot!
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/wolfcito" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee ;)" width="150" /></a>
+  <a href="https://www.buymeacoffee.com/wolfcito" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
+  </a>
 </div>
-<br />
 
+Thanks for stopping by! 🔥
