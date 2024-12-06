@@ -15,19 +15,17 @@
 </div>
 
 
- ## Blog & Publications
+## My journey
 
-- [https://wolfcito.xyz](https://wolfcito.xyz) - Personal blog
-- [Wolfcito's Hashnode](https://hashnode.com/@wolfcito)
-- [Wolfcito's Paragraph](https://paragraph.xyz/@road-blockchain)
-- [Wolfcito's Dev.to](https://dev.to/wolfcito)
+[wolfcito.xyz](https://wolfcito.xyz) · [Hashnode](https://hashnode.com/@wolfcito) · [Paragraph](https://paragraph.xyz/@road-blockchain) · [Dev.to](https://dev.to/wolfcito)  
+
 
   
-Hey there! I'm **Luis Fernando**, also known as **Wolfcito** 🐺, hailing from Ecuador 🇪🇨. I’m a **Software Development Architect** with a deep passion for **Web3** and **Blockchain** technologies. With years of experience across full-stack development, I focus on building scalable solutions and exploring decentralized systems like **Ethereum EVM** and **Layer 2 protocols** (e.g., **Optimism, Mode Network**).
+Hey there! I'm Luis Fernando, also known as Wolfcito, hailing from Ecuador. I’m a Software Developer Engineer with a deep passion for Web3 and Blockchain technologies. With years of experience across full-stack development, I focus on building scalable solutions and exploring decentralized systems like Ethereum EVM and Layer 2 protocols (e.g., Optimism, Mode Network).
 
-Currently, I’m a **Tech-Cooperator** at **Mode Network**, contributing to innovative blockchain solutions, and also an **Ambassador for Push Protocol**, engaging with the vibrant **Web3** community.
+Currently, I’m a Tech-Cooperator at Mode Network, contributing to innovative blockchain solutions, and also an Ambassador for Push Protocol, engaging with the vibrant Web3 community. As I advance in my development journey, I’m now diving deeper into the governance of the Web3 ecosystem, contributing as a delegate for Push Protocol and exploring governance models in ecosystems like Optimism and Mode Network. These efforts align with my core principles as a cooperator and contributor, leveraging my strong technical background to bring meaningful insights and value to governance processes.
 
-When I’m not deep in code, you can find me exploring new cultures, traveling, and indulging in diverse cuisines. My personal motto is inspired by the Japanese proverb: *"Senri no michi mo, ippou kara"* — *"A journey of a thousand miles begins with a single step."*
+When I’m not deep in code, you can find me exploring new cultures, traveling, and indulging in diverse cuisines. My personal motto is inspired by the Japanese proverb: "Senri no michi mo, ippou kara" — "A journey of a thousand miles begins with a single step."
 
 I believe in leaving the world better through tech by creating meaningful, user-centered experiences. Let’s connect, collaborate, and build the future together!
 
@@ -71,6 +69,7 @@ Check out more of my projects and personal endeavors at [wolfcito.xyz/projects](
 ## Support My Work
 
 If you enjoy my projects or would like to support my efforts, feel free to [buy me a coffee](https://www.buymeacoffee.com/wolfcito).
+
 💚 Your support means a lot!
 
 <div align="center">
