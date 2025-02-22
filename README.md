@@ -10,71 +10,53 @@
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website Status" />
 </div>
 
-<h2 align="center">🌟 My Journey 🌟</h2>
+<h2 align="center">🌟 My Ikigai 🌟</h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1c7a1b18-8bcc-47ce-bf48-d2056316e233" alt="Wolfcito Banner" />
 </div>
 
 <br/>
 
- · [wolfcito.xyz](https://wolfcito.xyz) · [Hashnode](https://hashnode.com/@wolfcito) · [Paragraph](https://paragraph.xyz/@road-blockchain) · [Dev.to](https://dev.to/wolfcito) · 
+
+
+Hey! I’m Luis Fernando Ushiña, aka Wolfcito on-chain. I’m a software developer from ECU who loves building awesome things in blockchain and Web3. From scaling decentralized systems to diving into Layer 2s like Optimism and Mode Network, this is where I thrive. 🐾 
 
 ---
 
-### 👋 Hey there!
-I’m **Luis Fernando Ushiña**, also known as **Wolfcito**, a passionate Software Developer Engineer from **Ecuador**. My expertise spans **Web3** and **Blockchain technologies**, with a focus on building scalable solutions and exploring decentralized systems such as **Ethereum EVM** and **Layer 2 protocols** (e.g., **Optimism**, **Mode Network**).
+🚀 **What I’m Up To Right Now:**  
+- **Tech-Cooperator @ Mode Network:** Building innovative blockchain solutions for the Mode ecosystem.  
+- **Ambassador @ Push Protocol:** Helping grow and engage the Web3 community one notification at a time.  
+- **Governance Delegate:** Repping for Push Protocol, Optimism, and Mode Network, making impactful decisions with my dev brain.  
 
 ---
 
-### 🚀 Current Roles
-- **Tech-Cooperator @ Mode Network**: Innovating in blockchain solutions within the Mode ecosystem.
-- **Ambassador @ Push Protocol**: Engaging with and growing the vibrant Web3 community.
-- **Web3 Governance Delegate**: Actively contributing to the governance models of **Push Protocol**, **Optimism**, and **Mode Network**, leveraging my technical expertise for impactful decisions.
+💡 **A Bit About Me**  
+
+When I’m not deep in code, you’ll find me:
+
+🌍 Checking out new places and cultures.\
+🥋 Throwing kicks in taekwondo or making moves in chess && xymyx.
+
+I live by: *"A journey of a thousand miles begins with a single step."* – except mine usually starts with coffee and code.  
 
 ---
 
-### 💡 About Me
-When I’m not diving deep into code, you can find me:
-- 🌍 Exploring new cultures and traveling.
-- 🍣 Indulging in diverse cuisines.
-- 🥋 Practicing **taekwondo** or strategizing in a game of **xymyx** and **chess**.
+⚙️ **Need a hand?**  
+Got a killer Web3 idea? Let’s make it happen. From **smart contracts** to **full-stack apps**, I’ve got you covered.  
 
-My motto: *"A journey of a thousand miles begins with a single step"*. I strive to create meaningful, user-centered experiences that leave a lasting impact.
-
----
-
-### ⚙️ How Can I Help You?
-<div align="center">
-  <img src="./services.jpg" alt="My Services" />
-</div>
-From building smart contracts to creating full-stack applications, I’m here to help your Web3 ideas come to life.
+🛠️ **Techs I vibe with**  
+- **Blockchains:** Ethereum, Optimism, Mode Network  
+- **Frameworks & Tools:** Next.js, Angular, Firebase, JavaScript, Solidity, Java  
 
 ---
 
-### 🛠️ Favorite Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/-Optimism-red" alt="Optimism" />
-  <img src="https://img.shields.io/badge/-Mode-green" alt="Mode Network" />
-  <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
-  <img src="https://img.shields.io/badge/-Next.js-white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-PL/SQL-red" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/-Ethereum-success" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/-Solidity-yellow" alt="Solidity" />
-  <img src="https://img.shields.io/badge/-Angular-red" alt="Angular" />
-  <img src="https://img.shields.io/badge/-Javascript-green" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Git-green" alt="Git" />
-</div>
+📂 **See What I Built!**  
+Want to see what I’ve been up to? Peep my projects here: **[wolfcito’s portfolio](https://wolfcito.xyz/projects/)**. I build things that solve real problems and push innovation forward.  
 
 ---
 
-### 📂 Projects & Portfolio
-Check out my work: [wolfcito's projects](https://wolfcito.xyz/projects)  
-From **blockchain applications** to **full-stack development**, my portfolio highlights my dedication to innovation and solving complex problems.
+☕ **Leave Your Tribute**  
+If you’re feeling generous, don’t forget to drop your **10% tribute** to the one and only **Wolfcito**! ⚔️✨  
+- **Buy mead or coffee** and fuel my coding adventures!  
 
----
-
-### ☕ Support My Work
-Don't forget to leave your 10% as a tribute to Wolfcito! ⚔️✨: [![Buy mead, leave 10% for Wolfcito! ⚔️✨](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=flat-square)](https://www.buymeacoffee.com/wolfcito)
-
-💚 Your support means the world to me. Let’s connect, collaborate, and build the future together!
+💚 Your support keeps me going. Let’s connect, collaborate, and build the future together!  
