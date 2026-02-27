@@ -45,7 +45,7 @@ Infrastructure enforces decisions.
 
 ## Selected Work
 
-- 1st Place — Celo “Build Agents for the Real World” (Main Track)
+- 1st Place — Celo "Build Agents for the Real World"
 - 1st Place — Avalanche "Hack2Build: Payments x402"
 - 3rd Place — Avalanche "Hack2Build: Privacy Edition"
 - Avalanche Team1 Colombia
