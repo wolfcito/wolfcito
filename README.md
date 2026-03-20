@@ -60,4 +60,4 @@ Infrastructure enforces decisions.
 
 X → https://twitter.com/AKAwolfcito  
 LinkedIn → https://www.linkedin.com/in/wolfcito  
-Site → https://wolfcito.xyz
+Site → https://wolfcito.vercel.app

@@ -1,0 +1,8 @@
+.agent/
+.agents/
+.claude/
+.cursor/
+.gemini/
+.opencode/
+_bmad/
+scripts/
